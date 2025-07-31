@@ -1,4 +1,4 @@
-# 🌟 Aryan Reddy's Portfolio Website
+# 🌟 My Portfolio Website
 
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/ARYAN15032005/Aryan_Reddy)](https://github.com/ARYAN15032005/Aryan_Reddy/commits/main)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fyour-portfolio-url.vercel.app)](https://aryan-reddy-rose.vercel.app/)
